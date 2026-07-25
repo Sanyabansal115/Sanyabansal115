@@ -64,7 +64,7 @@ My name is Sanya.
 
 - 📚 I love reading in my free time
 - 🎨 I enjoy painting
-- 🌊 I'm a water person — swimming, beach days, anything near the water
+- 🌊 I'm a water person —  love being near the water
 
 ---
 
