@@ -60,5 +60,13 @@ My name is Sanya.
 
 ---
 
+## Beyond code 🌱
+
+- 📚 I love reading in my free time
+- 🎨 I enjoy painting
+- 🌊 I'm a water person — swimming, beach days, anything near the water
+
+---
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sanya.bansal.115@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanya-bansal-824830302/)
