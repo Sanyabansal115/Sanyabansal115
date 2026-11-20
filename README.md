@@ -68,5 +68,33 @@ My name is Sanya.
 
 ---
 
+## Work Experience
+
+**Peer Tutor** | Centennial Learning Centre | May 2026 – Sep 2026
+- Tutored students in Python, Java, C#, and AI concepts
+- Explained programming and AI topics in plain language
+- [Add a number, e.g. "supported X students per week"]
+
+**Technical Support & Operations Analyst (Part-time)** | Friendly Income Tax Services | Feb 2025 – Apr 2026
+- [Add what you supported: systems, software, client issues]
+- [Add what you improved or automated]
+- [Add a number, e.g. tickets resolved or time saved]
+
+---
+
+## Certifications
+
+**Completed**
+- Microsoft Azure AI Fundamentals (AZ-900)
+- AODA Certificate (May 2026)
+
+**In progress**
+- Power BI
+- Azure AI Essentials
+- Cisco Networking Foundations
+- IBM: What is Data Science
+
+---
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sanya.bansal.115@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanya-bansal-824830302/)
